@@ -20,3 +20,10 @@ Algoritmo media(recebe nota prova 1, nota prova 2 e nota prova 3)
 - Tem-se a resposta da média
 ```
 
+Assim, criando esse algoritmo, esperamos uma saída:
+
+```
+Executar algoritmo media(com notas 5, 5 e 10) => resposta é 7
+```
+
+Usarei JavaScript para criar os códigos.
