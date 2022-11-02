@@ -27,3 +27,25 @@ Executar algoritmo media(com notas 5, 5 e 10) => resposta é 7
 ```
 
 Usarei JavaScript para criar os códigos.
+
+
+# Parte 2
+
+Agora é começar a criar algoritmos com JS
+
+Começamos com um algoritmo de somar dois números
+
+```
+Algoritmo somar (recebe num1 e num2)
+  - soma num1 com num2
+  - retorna essa soma
+```
+
+Para representar esse algoritmo em JavaScript, escrevemos:
+
+```
+function somar(num1, num2) {
+  let soma = num1 + num2
+  return soma
+}
+```
