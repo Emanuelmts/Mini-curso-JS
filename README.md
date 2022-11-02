@@ -43,7 +43,7 @@ Algoritmo somar (recebe num1 e num2)
 
 Para representar esse algoritmo em JavaScript, escrevemos:
 
-```
+```JavaScript
 function somar(num1, num2) {
   let soma = num1 + num2
   return soma
